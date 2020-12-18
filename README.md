@@ -5,4 +5,4 @@ Para visualizar este projeto no servidor do GitHub acesse: https://macmenez.gith
 
 Após a atualização do repositório, houveram problemas no repoitório antigo em que foi necessário deletar o repositório antido. 
 
->> O link antigo(https://macmenez.github.io/projeto-site/index.html) não funciona mais.
+O link antigo quebrado ~~https://macmenez.github.io/projeto-site/index.html~~.
